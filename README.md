@@ -13,3 +13,4 @@ Activity 1
 3. the parameter is a float and the return type is a boolean
 Activity 2
 The Class is the Blueprints to a house, The components are the house itself, The member variables are the design of the house(i.e color,size,shape)
+Activity 3
