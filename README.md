@@ -1,13 +1,3 @@
-### W3
-Activity 1
-1. The parameters are a float and boolean value and the return type is a string
-2. The parameter is a float and there is no return type
-3. the parameter is a float and the return type is a boolean
-
-Activity 2
-
-The Class is the Blueprints to a house, The components are the house itself, The member variables are the design of the house(i.e color,size,shape)
-
-Activity 3
-
-The balls will get bright when they bounce a lot because of the multiplier that is making them brighter
+### W4
+1. The solution we came up with for the collider activity is putting rigidbodies on the cat and soccerball and checking off is trigger for the goal so that the ball can pass through
+2. Cat kept rolling over so I went back a froxe the rotation on the x and z axis
