@@ -1,3 +1,6 @@
-### W4
-1. The solution we came up with for the collider activity is putting rigidbodies on the cat and soccerball and checking off is trigger for the goal so that the ball can pass through
-2. Cat kept rolling over so I went back a froze the rotation on the x and z axis
+### W6
+Monobehavior class
+We have to write Serialize Field
+This Class will need the _Movespeed variable, Transform, 
+The class needs the methods, Start(), Update(), Setdestination()
+The start method will get the deer to run its code, the update will keep it moving and call setdestination, the setdestination will make it go towards the red mushroom
