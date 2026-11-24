@@ -1,2 +1,2 @@
-### W8
-The code in step 2 needed to be Transform.Translate not Transform.position. 
+### W9
+This is what i did in class
